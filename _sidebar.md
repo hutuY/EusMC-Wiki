@@ -22,7 +22,6 @@
     - *[访问 Seaweed](//wiki.seatide.net)*
 - **插件使用**
     - *Residence*
-        - *[如何圈地？](plugins/residence/how-to-create-a-residence.md)*
     - *[服务器插件一览](plugins/all.md)*
 - **附加内容**
     - [指令格式](others/command-format.md)
